@@ -253,7 +253,7 @@ p {
 }
 .img-div1{
   height: 36rem;
-        background-image: url(../img/02-Background.png);
+        background-image: url(../img/01-Background.png);
         background-size: cover;
         background-position: center;
         color: white;
@@ -262,7 +262,7 @@ p {
 }
 .img-div2{
   height: 36rem;
-  background-image: url(../img/01-Background.png);
+  background-image: url(../img/04-Background.png);
   background-size: cover;
   background-position: center;
   color: white;
@@ -280,7 +280,7 @@ p {
 }
 .img-div4{
   height: 36rem;
-  background-image: url(../img/04-Background.png);
+  background-image: url(../img/02-Background.png) ;
   background-size: cover;
   background-position: center;
   color: white;
