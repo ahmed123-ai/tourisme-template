@@ -1,0 +1,11 @@
+jobs:
+  - job: Build
+    pool:
+      vmImage: 'ubuntu-latest'
+    steps:
+      - script: echo "Building app"
+  - job: Test
+    pool:
+      vmImage: 'ubuntu-latest'
+    steps:
+      - script: echo "Running tests"
